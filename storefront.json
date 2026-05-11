@@ -1,1 +1,431 @@
-[]
+{
+   "NewUntil" : null,
+   "NextUpdate" : "2026-01-19T11:00:00",
+   "StoreItems" : [
+      {
+         "GiftDrops" : [
+            {
+               "AvatarItemDesc" : null,
+               "AvatarItemType" : 0,
+               "ConsumableItemDesc" : "InQ25wQMGkG_bvuD5rf2Ag",
+               "Context" : 110000,
+               "Currency" : 0,
+               "CurrencyType" : 0,
+               "EquipmentModificationGuid" : null,
+               "EquipmentPrefabName" : null,
+               "FriendlyName" : "Salted Pretzels",
+               "GiftDropId" : 3874,
+               "IsQuery" : false,
+               "ItemSetFriendlyName" : "Snickety Snacks",
+               "ItemSetId" : 13,
+               "Level" : 0,
+               "Rarity" : 0,
+               "SubscribersOnly" : false,
+               "Tooltip" : "",
+               "Unique" : false
+            }
+         ],
+         "IsFeatured" : false,
+         "NewUntil" : null,
+         "Prices" : [
+            {
+               "CurrencyType" : 2,
+               "Price" : 75
+            }
+         ],
+         "PurchasableItemId" : 3890,
+         "SubscriberPrices" : [],
+         "Type" : 0
+      },
+      {
+         "GiftDrops" : [
+            {
+               "AvatarItemDesc" : null,
+               "AvatarItemType" : 0,
+               "ConsumableItemDesc" : "JfnVXFmilU6ysv-VbTAe3A",
+               "Context" : 110000,
+               "Currency" : 0,
+               "CurrencyType" : 0,
+               "EquipmentModificationGuid" : null,
+               "EquipmentPrefabName" : null,
+               "FriendlyName" : "Root Beer",
+               "GiftDropId" : 3875,
+               "IsQuery" : false,
+               "ItemSetFriendlyName" : null,
+               "ItemSetId" : null,
+               "Level" : 0,
+               "Rarity" : 0,
+               "SubscribersOnly" : false,
+               "Tooltip" : "",
+               "Unique" : false
+            }
+         ],
+         "IsFeatured" : false,
+         "NewUntil" : null,
+         "Prices" : [
+            {
+               "CurrencyType" : 2,
+               "Price" : 50
+            }
+         ],
+         "PurchasableItemId" : 3891,
+         "SubscriberPrices" : [],
+         "Type" : 0
+      },
+      {
+         "GiftDrops" : [
+            {
+               "AvatarItemDesc" : null,
+               "AvatarItemType" : 0,
+               "ConsumableItemDesc" : "iiGTvhOCHkOTNJhb16Zbyw",
+               "Context" : 110000,
+               "Currency" : 0,
+               "CurrencyType" : 0,
+               "EquipmentModificationGuid" : null,
+               "EquipmentPrefabName" : null,
+               "FriendlyName" : "Bubbly",
+               "GiftDropId" : 3876,
+               "IsQuery" : false,
+               "ItemSetFriendlyName" : "Yummy Bubbly",
+               "ItemSetId" : 20,
+               "Level" : 0,
+               "Rarity" : 0,
+               "SubscribersOnly" : false,
+               "Tooltip" : "",
+               "Unique" : false
+            }
+         ],
+         "IsFeatured" : false,
+         "NewUntil" : null,
+         "Prices" : [
+            {
+               "CurrencyType" : 2,
+               "Price" : 1000
+            }
+         ],
+         "PurchasableItemId" : 3892,
+         "SubscriberPrices" : [],
+         "Type" : 0
+      },
+      {
+         "GiftDrops" : [
+            {
+               "AvatarItemDesc" : null,
+               "AvatarItemType" : 0,
+               "ConsumableItemDesc" : "Tpxqe_lycUelySRHM8B0Vw",
+               "Context" : 110000,
+               "Currency" : 0,
+               "CurrencyType" : 0,
+               "EquipmentModificationGuid" : null,
+               "EquipmentPrefabName" : null,
+               "FriendlyName" : "Ego Potion",
+               "GiftDropId" : 3877,
+               "IsQuery" : false,
+               "ItemSetFriendlyName" : null,
+               "ItemSetId" : null,
+               "Level" : 0,
+               "Rarity" : 0,
+               "SubscribersOnly" : false,
+               "Tooltip" : "",
+               "Unique" : false
+            }
+         ],
+         "IsFeatured" : false,
+         "NewUntil" : null,
+         "Prices" : [
+            {
+               "CurrencyType" : 2,
+               "Price" : 200
+            }
+         ],
+         "PurchasableItemId" : 3893,
+         "SubscriberPrices" : [],
+         "Type" : 0
+      },
+      {
+         "GiftDrops" : [
+            {
+               "AvatarItemDesc" : null,
+               "AvatarItemType" : 0,
+               "ConsumableItemDesc" : "QRx0aSTT9keMFdAJMQHdTg",
+               "Context" : 110000,
+               "Currency" : 0,
+               "CurrencyType" : 0,
+               "EquipmentModificationGuid" : null,
+               "EquipmentPrefabName" : null,
+               "FriendlyName" : "Popcorn",
+               "GiftDropId" : 3878,
+               "IsQuery" : false,
+               "ItemSetFriendlyName" : "Snickety Snacks",
+               "ItemSetId" : 13,
+               "Level" : 0,
+               "Rarity" : 0,
+               "SubscribersOnly" : false,
+               "Tooltip" : "",
+               "Unique" : false
+            }
+         ],
+         "IsFeatured" : false,
+         "NewUntil" : null,
+         "Prices" : [
+            {
+               "CurrencyType" : 2,
+               "Price" : 100
+            }
+         ],
+         "PurchasableItemId" : 3894,
+         "SubscriberPrices" : [],
+         "Type" : 0
+      },
+      {
+         "GiftDrops" : [
+            {
+               "AvatarItemDesc" : null,
+               "AvatarItemType" : 0,
+               "ConsumableItemDesc" : "mq23W-RSP0G8iGNLdrcpUw",
+               "Context" : 110000,
+               "Currency" : 0,
+               "CurrencyType" : 0,
+               "EquipmentModificationGuid" : null,
+               "EquipmentPrefabName" : null,
+               "FriendlyName" : "Pepperoni Pizza",
+               "GiftDropId" : 3879,
+               "IsQuery" : false,
+               "ItemSetFriendlyName" : "Pizza Aplenty",
+               "ItemSetId" : 16,
+               "Level" : 0,
+               "Rarity" : 0,
+               "SubscribersOnly" : false,
+               "Tooltip" : "",
+               "Unique" : false
+            }
+         ],
+         "IsFeatured" : false,
+         "NewUntil" : null,
+         "Prices" : [
+            {
+               "CurrencyType" : 2,
+               "Price" : 90
+            }
+         ],
+         "PurchasableItemId" : 3895,
+         "SubscriberPrices" : [],
+         "Type" : 0
+      },
+      {
+         "GiftDrops" : [
+            {
+               "AvatarItemDesc" : null,
+               "AvatarItemType" : 0,
+               "ConsumableItemDesc" : "5hIAZ9wg5EyG1cILf4FS2A",
+               "Context" : 110000,
+               "Currency" : 0,
+               "CurrencyType" : 0,
+               "EquipmentModificationGuid" : null,
+               "EquipmentPrefabName" : null,
+               "FriendlyName" : "Cheese Pizza",
+               "GiftDropId" : 3880,
+               "IsQuery" : false,
+               "ItemSetFriendlyName" : "Pizza Aplenty",
+               "ItemSetId" : 16,
+               "Level" : 0,
+               "Rarity" : 0,
+               "SubscribersOnly" : false,
+               "Tooltip" : "",
+               "Unique" : false
+            }
+         ],
+         "IsFeatured" : false,
+         "NewUntil" : null,
+         "Prices" : [
+            {
+               "CurrencyType" : 2,
+               "Price" : 85
+            }
+         ],
+         "PurchasableItemId" : 3896,
+         "SubscriberPrices" : [],
+         "Type" : 0
+      },
+      {
+         "GiftDrops" : [
+            {
+               "AvatarItemDesc" : null,
+               "AvatarItemType" : 0,
+               "ConsumableItemDesc" : "wUCIKdJSvEmiQHYMyx4X4w",
+               "Context" : 110000,
+               "Currency" : 0,
+               "CurrencyType" : 0,
+               "EquipmentModificationGuid" : null,
+               "EquipmentPrefabName" : null,
+               "FriendlyName" : "Supreme Pizza",
+               "GiftDropId" : 3881,
+               "IsQuery" : false,
+               "ItemSetFriendlyName" : "Pizza Aplenty",
+               "ItemSetId" : 16,
+               "Level" : 0,
+               "Rarity" : 0,
+               "SubscribersOnly" : false,
+               "Tooltip" : "",
+               "Unique" : false
+            }
+         ],
+         "IsFeatured" : false,
+         "NewUntil" : null,
+         "Prices" : [
+            {
+               "CurrencyType" : 2,
+               "Price" : 95
+            }
+         ],
+         "PurchasableItemId" : 3897,
+         "SubscriberPrices" : [],
+         "Type" : 0
+      },
+      {
+         "GiftDrops" : [
+            {
+               "AvatarItemDesc" : null,
+               "AvatarItemType" : 0,
+               "ConsumableItemDesc" : "_jnjYGBcyEWY5Ub4OezXcA",
+               "Context" : 110000,
+               "Currency" : 0,
+               "CurrencyType" : 0,
+               "EquipmentModificationGuid" : null,
+               "EquipmentPrefabName" : null,
+               "FriendlyName" : "Hawaiian Pizza",
+               "GiftDropId" : 3882,
+               "IsQuery" : false,
+               "ItemSetFriendlyName" : "Pizza Aplenty",
+               "ItemSetId" : 16,
+               "Level" : 0,
+               "Rarity" : 0,
+               "SubscribersOnly" : false,
+               "Tooltip" : "",
+               "Unique" : false
+            }
+         ],
+         "IsFeatured" : false,
+         "NewUntil" : null,
+         "Prices" : [
+            {
+               "CurrencyType" : 2,
+               "Price" : 95
+            }
+         ],
+         "PurchasableItemId" : 3898,
+         "SubscriberPrices" : [],
+         "Type" : 0
+      },
+      {
+         "GiftDrops" : [
+            {
+               "AvatarItemDesc" : null,
+               "AvatarItemType" : 0,
+               "ConsumableItemDesc" : "7OZ5AE3uuUyqa0P-2W1ptg",
+               "Context" : 110000,
+               "Currency" : 0,
+               "CurrencyType" : 0,
+               "EquipmentModificationGuid" : null,
+               "EquipmentPrefabName" : null,
+               "FriendlyName" : "Glazed Donuts",
+               "GiftDropId" : 3883,
+               "IsQuery" : false,
+               "ItemSetFriendlyName" : "Donuts by the Dozen",
+               "ItemSetId" : 18,
+               "Level" : 0,
+               "Rarity" : 0,
+               "SubscribersOnly" : false,
+               "Tooltip" : "",
+               "Unique" : false
+            }
+         ],
+         "IsFeatured" : false,
+         "NewUntil" : null,
+         "Prices" : [
+            {
+               "CurrencyType" : 2,
+               "Price" : 90
+            },
+            {
+               "CurrencyType" : 400,
+               "Price" : 100
+            }
+         ],
+         "PurchasableItemId" : 3899,
+         "SubscriberPrices" : [],
+         "Type" : 0
+      },
+      {
+         "GiftDrops" : [
+            {
+               "AvatarItemDesc" : null,
+               "AvatarItemType" : 0,
+               "ConsumableItemDesc" : "mMCGPgK3tki5S_15q2Z81A",
+               "Context" : 110000,
+               "Currency" : 0,
+               "CurrencyType" : 0,
+               "EquipmentModificationGuid" : null,
+               "EquipmentPrefabName" : null,
+               "FriendlyName" : "Frosted Donuts",
+               "GiftDropId" : 3884,
+               "IsQuery" : false,
+               "ItemSetFriendlyName" : "Donuts by the Dozen",
+               "ItemSetId" : 18,
+               "Level" : 0,
+               "Rarity" : 0,
+               "SubscribersOnly" : false,
+               "Tooltip" : "",
+               "Unique" : false
+            }
+         ],
+         "IsFeatured" : false,
+         "NewUntil" : null,
+         "Prices" : [
+            {
+               "CurrencyType" : 2,
+               "Price" : 95
+            }
+         ],
+         "PurchasableItemId" : 3900,
+         "SubscriberPrices" : [],
+         "Type" : 0
+      },
+      {
+         "GiftDrops" : [
+            {
+               "AvatarItemDesc" : null,
+               "AvatarItemType" : 0,
+               "ConsumableItemDesc" : "ZuvkidodzkuOfGLDnTOFyg",
+               "Context" : 110000,
+               "Currency" : 0,
+               "CurrencyType" : 0,
+               "EquipmentModificationGuid" : null,
+               "EquipmentPrefabName" : null,
+               "FriendlyName" : "Assorted Donuts",
+               "GiftDropId" : 3885,
+               "IsQuery" : false,
+               "ItemSetFriendlyName" : "Donuts by the Dozen",
+               "ItemSetId" : 18,
+               "Level" : 0,
+               "Rarity" : 0,
+               "SubscribersOnly" : false,
+               "Tooltip" : "",
+               "Unique" : false
+            }
+         ],
+         "IsFeatured" : false,
+         "NewUntil" : null,
+         "Prices" : [
+            {
+               "CurrencyType" : 2,
+               "Price" : 100
+            }
+         ],
+         "PurchasableItemId" : 3901,
+         "SubscriberPrices" : [],
+         "Type" : 0
+      }
+   ],
+   "StorefrontType" : 300
+}
