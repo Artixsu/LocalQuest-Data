@@ -77,41 +77,6 @@
             {
                "AvatarItemDesc" : null,
                "AvatarItemType" : 0,
-               "ConsumableItemDesc" : "iiGTvhOCHkOTNJhb16Zbyw",
-               "Context" : 110000,
-               "Currency" : 0,
-               "CurrencyType" : 0,
-               "EquipmentModificationGuid" : null,
-               "EquipmentPrefabName" : null,
-               "FriendlyName" : "Bubbly",
-               "GiftDropId" : 3876,
-               "IsQuery" : false,
-               "ItemSetFriendlyName" : "Yummy Bubbly",
-               "ItemSetId" : 20,
-               "Level" : 0,
-               "Rarity" : 0,
-               "SubscribersOnly" : false,
-               "Tooltip" : "",
-               "Unique" : false
-            }
-         ],
-         "IsFeatured" : false,
-         "NewUntil" : null,
-         "Prices" : [
-            {
-               "CurrencyType" : 2,
-               "Price" : 1000
-            }
-         ],
-         "PurchasableItemId" : 3892,
-         "SubscriberPrices" : [],
-         "Type" : 0
-      },
-      {
-         "GiftDrops" : [
-            {
-               "AvatarItemDesc" : null,
-               "AvatarItemType" : 0,
                "ConsumableItemDesc" : "Tpxqe_lycUelySRHM8B0Vw",
                "Context" : 110000,
                "Currency" : 0,
@@ -139,41 +104,6 @@
             }
          ],
          "PurchasableItemId" : 3893,
-         "SubscriberPrices" : [],
-         "Type" : 0
-      },
-      {
-         "GiftDrops" : [
-            {
-               "AvatarItemDesc" : null,
-               "AvatarItemType" : 0,
-               "ConsumableItemDesc" : "QRx0aSTT9keMFdAJMQHdTg",
-               "Context" : 110000,
-               "Currency" : 0,
-               "CurrencyType" : 0,
-               "EquipmentModificationGuid" : null,
-               "EquipmentPrefabName" : null,
-               "FriendlyName" : "Popcorn",
-               "GiftDropId" : 3878,
-               "IsQuery" : false,
-               "ItemSetFriendlyName" : "Snickety Snacks",
-               "ItemSetId" : 13,
-               "Level" : 0,
-               "Rarity" : 0,
-               "SubscribersOnly" : false,
-               "Tooltip" : "",
-               "Unique" : false
-            }
-         ],
-         "IsFeatured" : false,
-         "NewUntil" : null,
-         "Prices" : [
-            {
-               "CurrencyType" : 2,
-               "Price" : 100
-            }
-         ],
-         "PurchasableItemId" : 3894,
          "SubscriberPrices" : [],
          "Type" : 0
       },
