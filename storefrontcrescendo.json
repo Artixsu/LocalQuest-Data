@@ -1,0 +1,532 @@
+{
+   "NewUntil" : null,
+   "NextUpdate" : "2025-11-04T04:09:24.8138977",
+   "StoreItems" : [
+      {
+         "GiftDrops" : [
+            {
+               "AvatarItemDesc" : "t9co2516nkuJO4LIJA1bJA,Wj7I2YiVoE6zp8J_HYs8tw,8kdJkmwNM0WQmMVrb8fK8A,",
+               "AvatarItemType" : 0,
+               "ConsumableItemDesc" : null,
+               "Context" : -1,
+               "Currency" : 0,
+               "CurrencyType" : 0,
+               "EquipmentModificationGuid" : null,
+               "EquipmentPrefabName" : null,
+               "FriendlyName" : "Aristocrat Cuff (Green)",
+               "GiftDropId" : 2888,
+               "IsQuery" : false,
+               "ItemSetFriendlyName" : "Aristocrat (Green)",
+               "ItemSetId" : 4,
+               "Level" : 0,
+               "Rarity" : 10,
+               "SubscribersOnly" : false,
+               "Tooltip" : "",
+               "Unique" : true
+            }
+         ],
+         "IsFeatured" : false,
+         "NewUntil" : null,
+         "Prices" : [
+            {
+               "CurrencyType" : 101,
+               "Price" : 20000
+            }
+         ],
+         "PurchasableItemId" : 2904,
+         "SubscriberPrices" : [],
+         "Type" : 0
+      },
+      {
+         "GiftDrops" : [
+            {
+               "AvatarItemDesc" : "jiBzrzDPkkuL6DqIFKpcCw,OfenZaa1-UGdQ8YVOrXjzw,StxMBEprVkqMa_IoDG-Q9A,",
+               "AvatarItemType" : 0,
+               "ConsumableItemDesc" : null,
+               "Context" : -1,
+               "Currency" : 0,
+               "CurrencyType" : 0,
+               "EquipmentModificationGuid" : null,
+               "EquipmentPrefabName" : null,
+               "FriendlyName" : "Aristocrat Necklace (Emerald)",
+               "GiftDropId" : 2889,
+               "IsQuery" : false,
+               "ItemSetFriendlyName" : "Aristocrat (Green)",
+               "ItemSetId" : 4,
+               "Level" : 0,
+               "Rarity" : 10,
+               "SubscribersOnly" : false,
+               "Tooltip" : "",
+               "Unique" : true
+            }
+         ],
+         "IsFeatured" : false,
+         "NewUntil" : null,
+         "Prices" : [
+            {
+               "CurrencyType" : 101,
+               "Price" : 40000
+            }
+         ],
+         "PurchasableItemId" : 2905,
+         "SubscriberPrices" : [],
+         "Type" : 0
+      },
+      {
+         "GiftDrops" : [
+            {
+               "AvatarItemDesc" : "QCtqxbvYOkan79YFugH_Cw,LyVf9lnzdku1F4iPBGqk-g,xnxDimLvVUCI9tEJqWDDcA,",
+               "AvatarItemType" : 0,
+               "ConsumableItemDesc" : null,
+               "Context" : -1,
+               "Currency" : 0,
+               "CurrencyType" : 0,
+               "EquipmentModificationGuid" : null,
+               "EquipmentPrefabName" : null,
+               "FriendlyName" : "Aristocrat Jacket (Green)",
+               "GiftDropId" : 2890,
+               "IsQuery" : false,
+               "ItemSetFriendlyName" : "Aristocrat (Green)",
+               "ItemSetId" : 4,
+               "Level" : 0,
+               "Rarity" : 10,
+               "SubscribersOnly" : false,
+               "Tooltip" : "",
+               "Unique" : true
+            }
+         ],
+         "IsFeatured" : false,
+         "NewUntil" : null,
+         "Prices" : [
+            {
+               "CurrencyType" : 101,
+               "Price" : 80000
+            }
+         ],
+         "PurchasableItemId" : 2906,
+         "SubscriberPrices" : [],
+         "Type" : 0
+      },
+      {
+         "GiftDrops" : [
+            {
+               "AvatarItemDesc" : "t9co2516nkuJO4LIJA1bJA,,,",
+               "AvatarItemType" : 0,
+               "ConsumableItemDesc" : null,
+               "Context" : -1,
+               "Currency" : 0,
+               "CurrencyType" : 0,
+               "EquipmentModificationGuid" : null,
+               "EquipmentPrefabName" : null,
+               "FriendlyName" : "Aristocrat Cuff (Red)",
+               "GiftDropId" : 2891,
+               "IsQuery" : false,
+               "ItemSetFriendlyName" : "Aristocrat (Red)",
+               "ItemSetId" : 5,
+               "Level" : 0,
+               "Rarity" : 20,
+               "SubscribersOnly" : false,
+               "Tooltip" : "",
+               "Unique" : true
+            }
+         ],
+         "IsFeatured" : false,
+         "NewUntil" : null,
+         "Prices" : [
+            {
+               "CurrencyType" : 101,
+               "Price" : 40000
+            }
+         ],
+         "PurchasableItemId" : 2907,
+         "SubscriberPrices" : [],
+         "Type" : 0
+      },
+      {
+         "GiftDrops" : [
+            {
+               "AvatarItemDesc" : "jiBzrzDPkkuL6DqIFKpcCw,0S7Nqm2kv0qMDTh-5Wy0MQ,StxMBEprVkqMa_IoDG-Q9A,",
+               "AvatarItemType" : 0,
+               "ConsumableItemDesc" : null,
+               "Context" : -1,
+               "Currency" : 0,
+               "CurrencyType" : 0,
+               "EquipmentModificationGuid" : null,
+               "EquipmentPrefabName" : null,
+               "FriendlyName" : "Aristocrat Necklace (Ruby)",
+               "GiftDropId" : 2892,
+               "IsQuery" : false,
+               "ItemSetFriendlyName" : "Aristocrat (Red)",
+               "ItemSetId" : 5,
+               "Level" : 0,
+               "Rarity" : 20,
+               "SubscribersOnly" : false,
+               "Tooltip" : "",
+               "Unique" : true
+            }
+         ],
+         "IsFeatured" : false,
+         "NewUntil" : null,
+         "Prices" : [
+            {
+               "CurrencyType" : 101,
+               "Price" : 80000
+            }
+         ],
+         "PurchasableItemId" : 2908,
+         "SubscriberPrices" : [],
+         "Type" : 0
+      },
+      {
+         "GiftDrops" : [
+            {
+               "AvatarItemDesc" : "QCtqxbvYOkan79YFugH_Cw,,,",
+               "AvatarItemType" : 0,
+               "ConsumableItemDesc" : null,
+               "Context" : -1,
+               "Currency" : 0,
+               "CurrencyType" : 0,
+               "EquipmentModificationGuid" : null,
+               "EquipmentPrefabName" : null,
+               "FriendlyName" : "Aristocrat Jacket (Red)",
+               "GiftDropId" : 2893,
+               "IsQuery" : false,
+               "ItemSetFriendlyName" : "Aristocrat (Red)",
+               "ItemSetId" : 5,
+               "Level" : 0,
+               "Rarity" : 20,
+               "SubscribersOnly" : false,
+               "Tooltip" : "",
+               "Unique" : true
+            }
+         ],
+         "IsFeatured" : false,
+         "NewUntil" : null,
+         "Prices" : [
+            {
+               "CurrencyType" : 101,
+               "Price" : 120000
+            }
+         ],
+         "PurchasableItemId" : 2909,
+         "SubscriberPrices" : [],
+         "Type" : 0
+      },
+      {
+         "GiftDrops" : [
+            {
+               "AvatarItemDesc" : "t9co2516nkuJO4LIJA1bJA,i5RKLo-RbEqisnGII1wpaQ,8kdJkmwNM0WQmMVrb8fK8A,",
+               "AvatarItemType" : 0,
+               "ConsumableItemDesc" : null,
+               "Context" : -1,
+               "Currency" : 0,
+               "CurrencyType" : 0,
+               "EquipmentModificationGuid" : null,
+               "EquipmentPrefabName" : null,
+               "FriendlyName" : "Aristocrat Cuff (Black)",
+               "GiftDropId" : 2894,
+               "IsQuery" : false,
+               "ItemSetFriendlyName" : "Aristocrat (Black)",
+               "ItemSetId" : 6,
+               "Level" : 0,
+               "Rarity" : 30,
+               "SubscribersOnly" : false,
+               "Tooltip" : "",
+               "Unique" : true
+            }
+         ],
+         "IsFeatured" : false,
+         "NewUntil" : null,
+         "Prices" : [
+            {
+               "CurrencyType" : 101,
+               "Price" : 80000
+            }
+         ],
+         "PurchasableItemId" : 2910,
+         "SubscriberPrices" : [],
+         "Type" : 0
+      },
+      {
+         "GiftDrops" : [
+            {
+               "AvatarItemDesc" : "jiBzrzDPkkuL6DqIFKpcCw,F7luQ18ZXEaITFiCqqwkpg,StxMBEprVkqMa_IoDG-Q9A,",
+               "AvatarItemType" : 0,
+               "ConsumableItemDesc" : null,
+               "Context" : -1,
+               "Currency" : 0,
+               "CurrencyType" : 0,
+               "EquipmentModificationGuid" : null,
+               "EquipmentPrefabName" : null,
+               "FriendlyName" : "Aristocrat Necklace (Topaz)",
+               "GiftDropId" : 2895,
+               "IsQuery" : false,
+               "ItemSetFriendlyName" : "Aristocrat (Black)",
+               "ItemSetId" : 6,
+               "Level" : 0,
+               "Rarity" : 30,
+               "SubscribersOnly" : false,
+               "Tooltip" : "",
+               "Unique" : true
+            }
+         ],
+         "IsFeatured" : false,
+         "NewUntil" : null,
+         "Prices" : [
+            {
+               "CurrencyType" : 101,
+               "Price" : 160000
+            }
+         ],
+         "PurchasableItemId" : 2911,
+         "SubscriberPrices" : [],
+         "Type" : 0
+      },
+      {
+         "GiftDrops" : [
+            {
+               "AvatarItemDesc" : "QCtqxbvYOkan79YFugH_Cw,i5RKLo-RbEqisnGII1wpaQ,xnxDimLvVUCI9tEJqWDDcA,",
+               "AvatarItemType" : 0,
+               "ConsumableItemDesc" : null,
+               "Context" : -1,
+               "Currency" : 0,
+               "CurrencyType" : 0,
+               "EquipmentModificationGuid" : null,
+               "EquipmentPrefabName" : null,
+               "FriendlyName" : "Aristocrat Jacket (Black)",
+               "GiftDropId" : 2896,
+               "IsQuery" : false,
+               "ItemSetFriendlyName" : "Aristocrat (Black)",
+               "ItemSetId" : 6,
+               "Level" : 0,
+               "Rarity" : 30,
+               "SubscribersOnly" : false,
+               "Tooltip" : "",
+               "Unique" : true
+            }
+         ],
+         "IsFeatured" : false,
+         "NewUntil" : null,
+         "Prices" : [
+            {
+               "CurrencyType" : 101,
+               "Price" : 240000
+            }
+         ],
+         "PurchasableItemId" : 2912,
+         "SubscriberPrices" : [],
+         "Type" : 0
+      },
+      {
+         "GiftDrops" : [
+            {
+               "AvatarItemDesc" : "t9co2516nkuJO4LIJA1bJA,jwEB6LyEaEekqtPNRc6TVA,8kdJkmwNM0WQmMVrb8fK8A,",
+               "AvatarItemType" : 0,
+               "ConsumableItemDesc" : null,
+               "Context" : -1,
+               "Currency" : 0,
+               "CurrencyType" : 0,
+               "EquipmentModificationGuid" : null,
+               "EquipmentPrefabName" : null,
+               "FriendlyName" : "Aristocrat Cuff (Midnight)",
+               "GiftDropId" : 2897,
+               "IsQuery" : false,
+               "ItemSetFriendlyName" : "Aristocrat (Midnight)",
+               "ItemSetId" : 7,
+               "Level" : 0,
+               "Rarity" : 50,
+               "SubscribersOnly" : false,
+               "Tooltip" : "",
+               "Unique" : true
+            }
+         ],
+         "IsFeatured" : false,
+         "NewUntil" : null,
+         "Prices" : [
+            {
+               "CurrencyType" : 101,
+               "Price" : 200000
+            }
+         ],
+         "PurchasableItemId" : 2913,
+         "SubscriberPrices" : [],
+         "Type" : 0
+      },
+      {
+         "GiftDrops" : [
+            {
+               "AvatarItemDesc" : "jiBzrzDPkkuL6DqIFKpcCw,poqpmOloPUKotHH9p0YAyw,StxMBEprVkqMa_IoDG-Q9A,",
+               "AvatarItemType" : 0,
+               "ConsumableItemDesc" : null,
+               "Context" : -1,
+               "Currency" : 0,
+               "CurrencyType" : 0,
+               "EquipmentModificationGuid" : null,
+               "EquipmentPrefabName" : null,
+               "FriendlyName" : "Aristocrat Necklace (Amethyst)",
+               "GiftDropId" : 2898,
+               "IsQuery" : false,
+               "ItemSetFriendlyName" : "Aristocrat (Midnight)",
+               "ItemSetId" : 7,
+               "Level" : 0,
+               "Rarity" : 50,
+               "SubscribersOnly" : false,
+               "Tooltip" : "",
+               "Unique" : true
+            }
+         ],
+         "IsFeatured" : false,
+         "NewUntil" : null,
+         "Prices" : [
+            {
+               "CurrencyType" : 101,
+               "Price" : 400000
+            }
+         ],
+         "PurchasableItemId" : 2914,
+         "SubscriberPrices" : [],
+         "Type" : 0
+      },
+      {
+         "GiftDrops" : [
+            {
+               "AvatarItemDesc" : "QCtqxbvYOkan79YFugH_Cw,IzkFARlv6EenmrfcNkcOuw,xnxDimLvVUCI9tEJqWDDcA,",
+               "AvatarItemType" : 0,
+               "ConsumableItemDesc" : null,
+               "Context" : -1,
+               "Currency" : 0,
+               "CurrencyType" : 0,
+               "EquipmentModificationGuid" : null,
+               "EquipmentPrefabName" : null,
+               "FriendlyName" : "Aristocrat Jacket (Midnight)",
+               "GiftDropId" : 2899,
+               "IsQuery" : false,
+               "ItemSetFriendlyName" : "Aristocrat (Midnight)",
+               "ItemSetId" : 7,
+               "Level" : 0,
+               "Rarity" : 50,
+               "SubscribersOnly" : false,
+               "Tooltip" : "",
+               "Unique" : true
+            }
+         ],
+         "IsFeatured" : false,
+         "NewUntil" : null,
+         "Prices" : [
+            {
+               "CurrencyType" : 101,
+               "Price" : 600000
+            }
+         ],
+         "PurchasableItemId" : 2915,
+         "SubscriberPrices" : [],
+         "Type" : 0
+      },
+      {
+         "GiftDrops" : [
+            {
+               "AvatarItemDesc" : null,
+               "AvatarItemType" : 0,
+               "ConsumableItemDesc" : "uMHrUPLYFk2rJOW_uop5Aw",
+               "Context" : 4205,
+               "Currency" : 0,
+               "CurrencyType" : 0,
+               "EquipmentModificationGuid" : null,
+               "EquipmentPrefabName" : null,
+               "FriendlyName" : "Red Apples",
+               "GiftDropId" : 2900,
+               "IsQuery" : false,
+               "ItemSetFriendlyName" : "Dracula's Spoils",
+               "ItemSetId" : 8,
+               "Level" : 0,
+               "Rarity" : 0,
+               "SubscribersOnly" : false,
+               "Tooltip" : "",
+               "Unique" : false
+            }
+         ],
+         "IsFeatured" : false,
+         "NewUntil" : null,
+         "Prices" : [
+            {
+               "CurrencyType" : 101,
+               "Price" : 4000
+            }
+         ],
+         "PurchasableItemId" : 2916,
+         "SubscriberPrices" : [],
+         "Type" : 0
+      },
+      {
+         "GiftDrops" : [
+            {
+               "AvatarItemDesc" : null,
+               "AvatarItemType" : 0,
+               "ConsumableItemDesc" : "lag2tZyB90W04lQ7ol4vMw",
+               "Context" : 4205,
+               "Currency" : 0,
+               "CurrencyType" : 0,
+               "EquipmentModificationGuid" : null,
+               "EquipmentPrefabName" : null,
+               "FriendlyName" : "High Five O'Whip",
+               "GiftDropId" : 2901,
+               "IsQuery" : false,
+               "ItemSetFriendlyName" : "Dracula's Spoils",
+               "ItemSetId" : 8,
+               "Level" : 0,
+               "Rarity" : 0,
+               "SubscribersOnly" : false,
+               "Tooltip" : "",
+               "Unique" : false
+            }
+         ],
+         "IsFeatured" : false,
+         "NewUntil" : null,
+         "Prices" : [
+            {
+               "CurrencyType" : 101,
+               "Price" : 3000
+            }
+         ],
+         "PurchasableItemId" : 2917,
+         "SubscriberPrices" : [],
+         "Type" : 0
+      },
+      {
+         "GiftDrops" : [
+            {
+               "AvatarItemDesc" : null,
+               "AvatarItemType" : 0,
+               "ConsumableItemDesc" : "oG7CdvW7p0-S8sVe9w5vRw",
+               "Context" : 4205,
+               "Currency" : 0,
+               "CurrencyType" : 0,
+               "EquipmentModificationGuid" : null,
+               "EquipmentPrefabName" : null,
+               "FriendlyName" : "Dracula Film",
+               "GiftDropId" : 2902,
+               "IsQuery" : false,
+               "ItemSetFriendlyName" : "Dracula's Spoils",
+               "ItemSetId" : 8,
+               "Level" : 0,
+               "Rarity" : 0,
+               "SubscribersOnly" : false,
+               "Tooltip" : "",
+               "Unique" : false
+            }
+         ],
+         "IsFeatured" : false,
+         "NewUntil" : null,
+         "Prices" : [
+            {
+               "CurrencyType" : 101,
+               "Price" : 2000
+            }
+         ],
+         "PurchasableItemId" : 2918,
+         "SubscriberPrices" : [],
+         "Type" : 0
+      }
+   ],
+   "StorefrontType" : 101
+}
