@@ -1,1 +1,42 @@
-[]
+{
+   "NewUntil" : null,
+   "NextUpdate" : "2026-01-31T12:58:59",
+   "StoreItems" : [
+      {
+         "GiftDrops" : [
+            {
+               "AvatarItemDesc" : "d0a9262f-5504-46a7-bb10-7507503db58e,g4diCmk0wEmIKUVozk9tDA,0440f08f-ef1d-49d8-942b-523056e8bb45,nHg4Uifww0GEX15L27WonA",
+               "AvatarItemType" : 0,
+               "ConsumableItemDesc" : null,
+               "Context" : 0,
+               "Currency" : 0,
+               "CurrencyType" : 0,
+               "EquipmentModificationGuid" : null,
+               "EquipmentPrefabName" : null,
+               "FriendlyName" : "Laser Graffiti Shirt",
+               "GiftDropId" : 3952,
+               "IsQuery" : false,
+               "ItemSetFriendlyName" : null,
+               "ItemSetId" : null,
+               "Level" : 0,
+               "Rarity" : -1,
+               "SubscribersOnly" : false,
+               "Tooltip" : "",
+               "Unique" : true
+            }
+         ],
+         "IsFeatured" : false,
+         "NewUntil" : null,
+         "Prices" : [
+            {
+               "CurrencyType" : 1,
+               "Price" : 999999
+            }
+         ],
+         "PurchasableItemId" : 3936,
+         "SubscriberPrices" : [],
+         "Type" : 0
+      }
+   ],
+   "StorefrontType" : 1
+}
